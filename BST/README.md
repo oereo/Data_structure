@@ -1,8 +1,8 @@
-##Introduce
+## Introduce
 - English dictionary
 - Use the Binary Search Tree, and recursion
 
-##How
+## How
 - option1 : input the word
 - option2 : remove the word
 - option3 : search
